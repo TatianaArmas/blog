@@ -1,0 +1,9 @@
+Coloca aquí tus fotografías con los siguientes nombres:
+- enero.jpg
+- febrero-ingles.jpg
+- marzo-cajamarca.jpg
+- mayo-cumpleanos.jpg
+- junio-fernanda.jpg
+- julio-mascotas.jpg
+- agosto-ingles-avanzado.jpg
+- octubre-arequipa.jpg
